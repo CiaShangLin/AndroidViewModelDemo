@@ -1,1 +1,2 @@
 # AndroidViewModelDemo
+[medium](https://medium.com/@west7418/%E5%A6%82%E4%BD%95%E5%8F%96%E5%BE%97activity%E6%88%96fragment%E7%9A%84viewmodel%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F-25662582beda "medium")
